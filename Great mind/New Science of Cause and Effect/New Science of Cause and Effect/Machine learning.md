@@ -1,0 +1,5 @@
+---
+مشکل: obsidian://open?vault=New%20Science%20of%20Cause%20and%20Effect&file=tempFileForShare_%DB%B2%DB%B0%DB%B2%DB%B6%DB%B0%DB%B1%DB%B2%DB%B3-%DB%B2%DB%B1%DB%B3%DB%B1%DB%B0%DB%B3.jpg
+bige data: obsidian://open?vault=New%20Science%20of%20Cause%20and%20Effect&file=tempFileForShare_%DB%B2%DB%B0%DB%B2%DB%B6%DB%B0%DB%B1%DB%B2%DB%B3-%DB%B2%DB%B1%DB%B3%DB%B3%DB%B0%DB%B9.jpg
+جدول: obsidian://open?vault=New%20Science%20of%20Cause%20and%20Effect&file=tempFileForShare_%DB%B2%DB%B0%DB%B2%DB%B6%DB%B0%DB%B1%DB%B2%DB%B3-%DB%B2%DB%B1%DB%B3%DB%B5%DB%B2%DB%B1.jpg
+---

@@ -1,0 +1,10 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "1.  دیدن": "checkbox",
+    "2.  دست‌کاری کردن": "checkbox",
+    "3.«اگر طور دیگری بود…»": "checkbox"
+  }
+}

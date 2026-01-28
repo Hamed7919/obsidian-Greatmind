@@ -1,0 +1,342 @@
+{
+  "main": {
+    "id": "62a31d58dfb82c7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba7889ceaf87c7a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fcb9cfac768c6fd0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Literature review.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Literature review"
+            }
+          },
+          {
+            "id": "b184a0b6110833a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Markdown.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Markdown"
+            }
+          },
+          {
+            "id": "fae24e5d37fa1fdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Literature review.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Literature review"
+            }
+          },
+          {
+            "id": "c13841a12fafbf0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Latex.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Latex"
+            }
+          },
+          {
+            "id": "b2477cd42c051a95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Latex.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Latex"
+            }
+          },
+          {
+            "id": "ba1a6a8fdcca0027",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Haeding.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Haeding"
+            }
+          },
+          {
+            "id": "dcb0aefea786504f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Slide.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Slide"
+            }
+          },
+          {
+            "id": "eb1e1674753d1cf5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Code.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Code"
+            }
+          },
+          {
+            "id": "8ddb58ceeacce0d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Literature review.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Literature review"
+            }
+          },
+          {
+            "id": "9291a22209225752",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Literature review.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Literature review"
+            }
+          },
+          {
+            "id": "78c0be3d202a26e4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 10
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ce42a21416810438",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "e450dc4746a8f7ad",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "ff1e27ef0dead7ce",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "1fa3dc0a2aa4e7d8",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "7a44124cfa941847",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "54a4c486560a00b0",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "0218529f3fd5bc96",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d307fe3379a64b58",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "3ec98ac3ba89b73d",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Latex.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "2c52cc9b622475e7",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Latex.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "78c0be3d202a26e4",
+  "lastOpenFiles": [
+    "zettelkast/ویژگی‌های یک Zettel.md",
+    "zettelkast/اجرایی ⚙️.md",
+    "zettelkast/Derived Zettel.md",
+    "zettelkast/Core Zettel.md",
+    "zettelkast/Spaced Repetition.md",
+    "zettelkast/Permanent Notes.md",
+    "zettelkast/ایده.md",
+    "zettelkast/لینک‌.md",
+    "zettelkast/گرده‌افشانی ایده‌ها.md",
+    "zettelkast/الگو.md",
+    "zettelkast/تفکر انتقادی.md",
+    "zettelkast/هایلایت.md",
+    "zettelkast/Empty Mind.md",
+    "zettelkast/ذخیره.md",
+    "zettelkast/یادگیری فعال.md",
+    "zettelkast/Fleeting Notes.md",
+    "zettelkast/تفکر شفاف.md",
+    "zettelkast/نوشتن.md",
+    "zettelkast/تفکر عمیق.md",
+    "zettelkast/گراف.md",
+    "zettelkast/نود.md",
+    "zettelkast/Learning path.md",
+    "zettelkast/DAG.md",
+    "zettelkast/🔑 جمع‌بندی نهایی.md",
+    "zettelkast/مفهومی 🧠.md",
+    "zettelkast/1️⃣ Atomic.md",
+    "zettelkast",
+    "۲۰۲۶۰۱۲۶_۱۳۰۸۰۵ 2.heic",
+    "۲۰۲۶۰۱۲۶_۱۳۰۸۰۵ 1.heic",
+    "۲۰۲۶۰۱۲۶_۱۳۰۸۰۵.heic"
+  ]
+}

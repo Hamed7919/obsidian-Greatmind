@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "b02302e1ba694bb0",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4774400902b273c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bfb9eff02112810d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "کتاب واقعیت/غریزه پنجم اندازه.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "غریزه پنجم اندازه"
+            }
+          }
+        ]
+      },
+      {
+        "id": "f2486c1fc9a38698",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5227121242106f8",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "کتاب واقعیت/غریزه پنجم اندازه.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.908870323216632,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1ffe6c5c71747add",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b04fc5cbd527c45f",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "f2917505515ef564",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "8be23732cf2f68dc",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "636156ac6f918a45",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "5fa7e036a782a9cf",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "bcdb1c16250e71f1",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "کتاب واقعیت/مقدمه.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "2e6cd15ed0f72f36",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "d0f82ec770c08bfc",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "bfb9eff02112810d",
+  "lastOpenFiles": [
+    "کتاب واقعیت/غریزه اول شکاف.md",
+    "هیچی.md",
+    "کتاب واقعیت/غريزه  شیشم کلی گرایی.md",
+    "کتاب واقعیت/مقدمه.md",
+    "New Science of Cause and Effect",
+    "Untitled",
+    "کتاب واقعیت/غریزه نهم سرزنش.md",
+    "کتاب واقعیت/فصل دهم  غریزه  فوريت.md",
+    "کتاب واقعیت/غریزه هشتم نگرش تک بعدی.md",
+    "کتاب واقعیت/غریزه  هفتم سرنوشت.md",
+    "کتاب واقعیت/غریزه پنجم اندازه.md",
+    "کتاب واقعیت/غریزه چهارم ترس.md",
+    "کتاب واقعیت/غریزه سوم پيروي از خط مستقیم.md",
+    "کتاب واقعیت/غریزه دوم  غریزه منفي گرا.md",
+    "هنر جنگ/نظم.md",
+    "هنر جنگ/انضباط.png",
+    "هنر جنگ/اهمیت تک بعدی نبودن.png",
+    "هنر جنگ/Untitled 1.base",
+    "هنر جنگ/Untitled.base",
+    "نظم.md",
+    "هنر جنگ/انضباط.md",
+    "هنر جنگ",
+    "Untitled.md",
+    "share_454682.png",
+    "share_454682 1.png",
+    "کتاب واقعیت"
+  ]
+}

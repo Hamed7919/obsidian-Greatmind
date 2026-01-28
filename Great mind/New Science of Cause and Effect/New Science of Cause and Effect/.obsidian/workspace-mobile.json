@@ -1,0 +1,373 @@
+{
+  "main": {
+    "id": "32806f2b515351fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "c045e53b1db0a54e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae2faaa576bd7912",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ایده‌ی مرکزی کتاب.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ایده‌ی مرکزی کتاب"
+            }
+          },
+          {
+            "id": "dea8d5ebc4903021",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Picture/Screenshot_۲۰۲۶۰۱۲۳_۱۲۲۹۰۸_ChatGPT.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "Screenshot_۲۰۲۶۰۱۲۳_۱۲۲۹۰۸_ChatGPT"
+            }
+          },
+          {
+            "id": "e7e913feb8830ab0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🧠 نقشه‌ی یادگیری «تولد علم علیت جدید»/مرحله صفر.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "مرحله صفر"
+            }
+          },
+          {
+            "id": "bf9fb736d398a98f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "آمار کلاسیک.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "آمار کلاسیک"
+            }
+          },
+          {
+            "id": "149d11b61cb50ec7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🧠 نقشه‌ی یادگیری «تولد علم علیت جدید»/مرحله 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "مرحله 3"
+            }
+          },
+          {
+            "id": "3c2b72fa58f22c69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🧠 نقشه‌ی یادگیری «تولد علم علیت جدید»/مرحله 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "مرحله 3"
+            }
+          },
+          {
+            "id": "fa47b2a4d70e89a4",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Picture/Screenshot_۲۰۲۶۰۱۲۳_۱۵۳۳۴۳_ChatGPT.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "Screenshot_۲۰۲۶۰۱۲۳_۱۵۳۳۴۳_ChatGPT"
+            }
+          },
+          {
+            "id": "8c9b097bb2ce1097",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🧠 نقشه‌ی یادگیری «تولد علم علیت جدید»/مرحله 5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "مرحله 5"
+            }
+          },
+          {
+            "id": "0f4ea670027adb8e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Picture/Screenshot_۲۰۲۶۰۱۲۳_۲۱۱۱۳۵_ChatGPT.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "Screenshot_۲۰۲۶۰۱۲۳_۲۱۱۱۳۵_ChatGPT"
+            }
+          },
+          {
+            "id": "f0f16debd13a4d7f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Picture/tempFileForShare_۲۰۲۶۰۱۲۳-۲۱۲۹۳۱.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "tempFileForShare_۲۰۲۶۰۱۲۳-۲۱۲۹۳۱"
+            }
+          },
+          {
+            "id": "60b32edfb3188e0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine learning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Machine learning"
+            }
+          },
+          {
+            "id": "8ac41b5e27be998c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Confounder.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Confounder"
+            }
+          },
+          {
+            "id": "b177ecd7ebb3a18e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "تفاوت سوال علی و آماری.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "تفاوت سوال علی و آماری"
+            }
+          },
+          {
+            "id": "a2f2dddf36284984",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🧠 الگوی تصمیم‌گیری علی‌محور/چک ليست.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "چک ليست"
+            }
+          }
+        ],
+        "currentTab": 13
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d01c177c0e394e21",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "189d9efab8a65c87",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "d3da79afe291809d",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "8b76388db59340aa",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "f10f4551c9b72130",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "e327d39218c8c308",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "664e10a0d6ea7542",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "🧠 الگوی تصمیم‌گیری علی‌محور/متن.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "b4e4ab5f72ec4e26",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Picture/Screenshot_۲۰۲۶۰۱۲۳_۱۳۵۷۱۶_ChatGPT.jpg",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "840038d46537c050",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Picture/Screenshot_۲۰۲۶۰۱۲۳_۱۳۵۷۱۶_ChatGPT.jpg",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "a2f2dddf36284984",
+  "lastOpenFiles": [
+    "🧠 الگوی تصمیم‌گیری علی‌محور/متن.md",
+    "🧠 الگوی تصمیم‌گیری علی‌محور/چک ليست.md",
+    "تفاوت سوال علی و آماری.md",
+    "ایده‌ی مرکزی کتاب.md",
+    "🧠 الگوی تصمیم‌گیری علی‌محور",
+    "Picture/tempFileForShare_۲۰۲۶۰۱۲۴-۰۷۳۴۴۶.jpg",
+    "Picture/tempFileForShare_۲۰۲۶۰۱۲۴-۰۷۳۶۲۷.jpg",
+    "Picture/tempFileForShare_۲۰۲۶۰۱۲۴-۰۷۳۳۴۱.jpg",
+    "Picture/tempFileForShare_۲۰۲۶۰۱۲۴-۰۷۳۲۳۸.jpg",
+    "Picture/tempFileForShare_۲۰۲۶۰۱۲۴-۰۷۳۰۳۷.jpg",
+    "Picture/tempFileForShare_۲۰۲۶۰۱۲۴-۰۷۳۱۴۲.jpg",
+    "Picture/tempFileForShare_۲۰۲۶۰۱۲۴-۰۷۲۷۰۲.jpg",
+    "Picture/tempFileForShare_۲۰۲۶۰۱۲۴-۰۷۲۵۳۷.jpg",
+    "Picture/Screenshot_۲۰۲۶۰۱۲۳_۱۲۲۷۲۱_ChatGPT.jpg",
+    "تفکر علیت.md",
+    "Picture/Screenshot_۲۰۲۶۰۱۲۳_۱۳۵۷۱۶_ChatGPT.jpg",
+    "جهت.md",
+    "DAG + do + SCM.md",
+    "SCM.md",
+    "شکستن پیکان‌ها.md",
+    "ازمایش (do).md",
+    "Confounder.md",
+    "🧠 نقشه‌ی یادگیری «تولد علم علیت جدید»/مرحله 7.md",
+    "مثال پزشکی",
+    "Machine learning.md",
+    "همبستگی.md",
+    "آمار کلاسیک.md",
+    "🧠 نقشه‌ی یادگیری «تولد علم علیت جدید»/مرحله 6.md",
+    "🧠 نقشه‌ی یادگیری «تولد علم علیت جدید»/مرحله 5.md",
+    "🧠 نقشه‌ی یادگیری «تولد علم علیت جدید»/مرحله 0.md",
+    "🧠 نقشه‌ی یادگیری «تولد علم علیت جدید»/مرحله 3.md",
+    "🧠 نقشه‌ی یادگیری «تولد علم علیت جدید»/مرحله 2.md",
+    "🧠 نقشه‌ی یادگیری «تولد علم علیت جدید»/مرحله‌ ۴.md",
+    "تماشاچی vs بازیگر.md",
+    "🧠 نقشه‌ی یادگیری «تولد علم علیت جدید»/مرحله 1.md",
+    "علیت.md",
+    "🧠 نقشه‌ی یادگیری «تولد علم علیت جدید»",
+    "Picture"
+  ]
+}
