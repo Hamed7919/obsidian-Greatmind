@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian/zettelkast/Intentionality.md",
+                "file": "obsidian/zettelkast/جمع بندی نهایی.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Intentionality"
+              "title": "جمع بندی نهایی"
             }
           }
         ]
@@ -180,17 +180,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "2abf870e0a39d2db",
+  "active": "e4de4e7b59d8e741",
   "lastOpenFiles": [
-    "obsidian/zettelkast/WALLOW BAG.md",
-    "obsidian/zettelkast/Intentionality.md",
+    "obsidian/zettelkast/خروجی.md",
+    "نقش Tagها 🏷️.md",
+    "obsidian/zettelkast/لینک‌.md",
     "obsidian/zettelkast/Consumption Backlog.md",
+    "obsidian/zettelkast/مصرف آگاهانه محتوا.md",
+    "obsidian/zettelkast/نوت از نوت.md",
+    "obsidian/zettelkast/نود.md",
+    "obsidian/zettelkast/Intentionality.md",
+    "obsidian/zettelkast/WALLOW BAG.md",
     "Screenshot from 2026-01-29 19-44-18.png",
     "obsidian/zettelkast/Read Later Apps.md",
     "obsidian/zettelkast/RSS Feed.md",
     "obsidian/zettelkast/ورودی.md",
     "obsidian/zettelkast/اطلاعات.md",
-    "obsidian/zettelkast/خروجی.md",
     "obsidian/zettelkast/تفکر کارخانه ای.md",
     "obsidian/zettelkast/پردازش.md",
     "obsidian/Search.md",
