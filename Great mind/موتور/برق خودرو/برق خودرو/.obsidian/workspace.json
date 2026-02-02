@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "aca72543a799b8bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc4987a3cc977829",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e52ada5ce2e354b6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "963234e9e2cb830b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "تصویر/Screenshot from 2026-02-02 14-30-52.png"
+              },
+              "icon": "lucide-image",
+              "title": "Screenshot from 2026-02-02 14-30-52"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "02027b639cbb31df",
+    "type": "split",
+    "children": [
+      {
+        "id": "875fc0802c313c11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72dccf60ddf5dea9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9af6561c5d2acc41",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3e07cef7b04918c7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d255fcd05e1d517c",
+    "type": "split",
+    "children": [
+      {
+        "id": "78ae035b6ed5ec46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba592d2c08f960a7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "تصویر/Screenshot from 2026-02-02 14-30-52.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Screenshot from 2026-02-02 14-30-52"
+            }
+          },
+          {
+            "id": "a101ecb924b245c4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "تصویر/Screenshot from 2026-02-02 14-30-52.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Screenshot from 2026-02-02 14-30-52"
+            }
+          },
+          {
+            "id": "ba9d4f543f56badd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a6132f8c8d480b3d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "20719bb8338d79fd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "تصویر/Screenshot from 2026-02-02 14-30-52.png",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Screenshot from 2026-02-02 14-30-52"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "963234e9e2cb830b",
+  "lastOpenFiles": [
+    "فن مکنده.md",
+    "تصویر/Screenshot from 2026-02-02 14-30-52.png",
+    "فن دمنده.md",
+    "Welcome.md",
+    "تصویر",
+    "Untitled.md",
+    "Untitled 1",
+    "Screenshot from 2026-02-02 14-30-52.png",
+    "Screenshot from 2026-02-02 14-30-52 1.png",
+    "فن محوری.md",
+    "فن های الکتریکی.md",
+    "فن گریز از مرکز(فن سانتریفوژ).md"
+  ]
+}
