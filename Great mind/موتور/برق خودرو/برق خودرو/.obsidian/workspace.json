@@ -21,12 +21,10 @@
             "id": "963234e9e2cb830b",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "تصویر/Screenshot from 2026-02-02 14-30-52.png"
-              },
-              "icon": "lucide-image",
-              "title": "Screenshot from 2026-02-02 14-30-52"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -103,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "تصویر/Screenshot from 2026-02-02 14-30-52.png",
+                "file": "فن دمنده.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +111,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Screenshot from 2026-02-02 14-30-52"
+              "title": "Backlinks for فن دمنده"
             }
           },
           {
@@ -122,12 +120,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "تصویر/Screenshot from 2026-02-02 14-30-52.png",
+                "file": "فن دمنده.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Screenshot from 2026-02-02 14-30-52"
+              "title": "Outgoing links from فن دمنده"
             }
           },
           {
@@ -165,13 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "تصویر/Screenshot from 2026-02-02 14-30-52.png",
+                "file": "فن دمنده.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Screenshot from 2026-02-02 14-30-52"
+              "title": "Outline of فن دمنده"
             }
           }
         ]
@@ -194,17 +192,39 @@
   },
   "active": "963234e9e2cb830b",
   "lastOpenFiles": [
+    "فن های الکتریکی.md",
+    "کنترل رله فن با یک حسگر بی متال.md",
+    "کنترل رله فن با یونیت کنترل فن و یک حسگر PTC.md",
+    "کنترل رله فن با ECU و یک حسگر دمای مایع خنک کننده NTC.md",
+    "چيدمان رله ها.md",
+    "ویدئو های کاربردی.md",
+    "نقشه دور کند.md",
+    "منفی فن ها.md",
+    "مقاومت.md",
+    "مدار فن پژو.md",
+    "مدار شیشه بالابر پرايد.md",
+    "سیم کشی فن پراید.md",
+    "سوکت کلید شیشه بالابر.md",
+    "جعبه فیوز کالسکه ای.md",
+    "تصویر/tempFileForShare_20260202-160934.jpg",
+    "تصویر/tempFileForShare_20260202-153132.jpg",
+    "تصویر/tempFileForShare_20260202-152948.jpg",
+    "تصویر/tempFileForShare_20260202-152845.jpg",
+    "تصویر/tempFileForShare_20260202-152452.jpg",
+    "تصویر/tempFileForShare_20260202-152032.jpg",
+    "تصویر/tempFileForShare_20260202-151637.jpg",
+    "تصویر/tempFileForShare_20260202-145308.jpg",
+    "تصویر/tempFileForShare_20260202-144956.jpg",
+    "تصویر/Screenshot_20260202_164429_Aparat.jpg",
+    "تصویر/20260202_150003.heic",
+    "تصویر/20260202_150003 1.heic",
     "فن مکنده.md",
-    "تصویر/Screenshot from 2026-02-02 14-30-52.png",
+    "فن محوری.md",
+    "فن گریز از مرکز(فن سانتریفوژ).md",
     "فن دمنده.md",
     "Welcome.md",
     "تصویر",
     "Untitled.md",
-    "Untitled 1",
-    "Screenshot from 2026-02-02 14-30-52.png",
-    "Screenshot from 2026-02-02 14-30-52 1.png",
-    "فن محوری.md",
-    "فن های الکتریکی.md",
-    "فن گریز از مرکز(فن سانتریفوژ).md"
+    "Untitled 1"
   ]
 }
