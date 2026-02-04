@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Weekly Template.md",
+                "file": "Periodic Notes/Daily/2026-02-04.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Weekly Template"
+              "title": "2026-02-04"
             }
           }
         ]
@@ -94,16 +94,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "Periodic Notes/Daily/2026-02-04.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 2026-02-04"
             }
           },
           {
@@ -112,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Periodic Notes/Daily/2026-02-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 2026-02-04"
             }
           },
           {
@@ -154,16 +156,17 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Periodic Notes/Daily/2026-02-04.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 2026-02-04"
             }
           },
           {
-            "id": "ba2bc8d031494726",
+            "id": "c1a94a660e4d2479",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -172,12 +175,12 @@
               "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 546.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,14 +198,17 @@
   "active": "2abf870e0a39d2db",
   "lastOpenFiles": [
     "Periodic Notes/Weekly/2026-W06.md",
-    "Templates/Weekly Template.md",
-    "Templates/Monthly Template.md",
+    "2026-02-03.md",
     "Periodic Notes/Daily/2026-02-04.md",
     "Periodic Notes/Monthly/2026-02.md",
+    "Untitled.base",
+    "Screenshot from 2026-01-29 19-44-18.png",
+    "Templates/Daily Template.md",
+    "Templates/Monthly Template.md",
+    "Templates/Weekly Template.md",
     "Periodic Notes/Monthly/Untitled.md",
     "Periodic Notes/Weekly/Untitled.md",
     "Periodic Notes/Daily/2026-02-05.md.md",
-    "Templates/Daily Template.md",
     "0 inbox/1405.md",
     "Periodic Notes/Monthly.md",
     "Periodic Notes/Weekly.md",
@@ -226,9 +232,7 @@
     "obsidian/Cursor.md",
     "obsidian/Code.md",
     "obsidian/Alias.md",
-    "Templates.md",
     "Templates",
-    "Periodic Notes",
-    "Screenshot from 2026-01-29 19-44-18.png"
+    "Periodic Notes"
   ]
 }

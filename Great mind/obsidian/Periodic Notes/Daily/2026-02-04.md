@@ -8,8 +8,11 @@
 
 ## Daily Deeds & Rituals
 
-- [ ] Study 4 hours for CKA
-- [ ] Meditate for 20 minutes
+- [ ] Study 4 hours for Backend
+- [ ] learning  English Grammer
+- [ ] learning 10 finger typing
+- [ ] school
+- [ ] gym
 
 ---
 
