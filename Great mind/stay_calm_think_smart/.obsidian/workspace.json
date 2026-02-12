@@ -1,48 +1,55 @@
 {
   "main": {
-    "id": "aca72543a799b8bc",
+    "id": "6a80b74008db4e67",
     "type": "split",
     "children": [
       {
-        "id": "bc4987a3cc977829",
+        "id": "95c4e44fd42c34e5",
         "type": "tabs",
         "children": [
           {
-            "id": "e52ada5ce2e354b6",
+            "id": "8b6bbc6c7b3f6e30",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "20260212-0820-EmoIntel.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "20260212-0820-EmoIntel"
             }
           },
           {
-            "id": "963234e9e2cb830b",
+            "id": "9b34b6e8b5e9834a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "moc.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "moc"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "02027b639cbb31df",
+    "id": "b22d19ae380e9919",
     "type": "split",
     "children": [
       {
-        "id": "875fc0802c313c11",
+        "id": "1f743d3ac964a298",
         "type": "tabs",
         "children": [
           {
-            "id": "72dccf60ddf5dea9",
+            "id": "deb837298b636ba3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -55,7 +62,7 @@
             }
           },
           {
-            "id": "9af6561c5d2acc41",
+            "id": "4ceae29cf67dbf29",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -72,7 +79,7 @@
             }
           },
           {
-            "id": "3e07cef7b04918c7",
+            "id": "58d3bf0b02f8f4a7",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -88,20 +95,20 @@
     "width": 300
   },
   "right": {
-    "id": "d255fcd05e1d517c",
+    "id": "2432237c76bffc71",
     "type": "split",
     "children": [
       {
-        "id": "78ae035b6ed5ec46",
+        "id": "0da38b7ebeac1556",
         "type": "tabs",
         "children": [
           {
-            "id": "ba592d2c08f960a7",
+            "id": "8fbd4ce800b64ff7",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "فن دمنده.md",
+                "file": "20260212-0820-EmoIntel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,25 +118,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for فن دمنده"
+              "title": "Backlinks for 20260212-0820-EmoIntel"
             }
           },
           {
-            "id": "a101ecb924b245c4",
+            "id": "0902ab297c006890",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "فن دمنده.md",
+                "file": "20260212-0820-EmoIntel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from فن دمنده"
+              "title": "Outgoing links from 20260212-0820-EmoIntel"
             }
           },
           {
-            "id": "ba9d4f543f56badd",
+            "id": "a5dd6bf3a83b4eff",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -144,7 +151,7 @@
             }
           },
           {
-            "id": "a6132f8c8d480b3d",
+            "id": "51d77ddde2f9d978",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -158,18 +165,18 @@
             }
           },
           {
-            "id": "20719bb8338d79fd",
+            "id": "dd83c29bcd0324b6",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "فن دمنده.md",
+                "file": "20260212-0820-EmoIntel.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of فن دمنده"
+              "title": "Outline of 20260212-0820-EmoIntel"
             }
           }
         ]
@@ -190,41 +197,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "72dccf60ddf5dea9",
+  "active": "8b6bbc6c7b3f6e30",
   "lastOpenFiles": [
-    "فن های الکتریکی.md",
-    "کنترل رله فن با یک حسگر بی متال.md",
-    "کنترل رله فن با یونیت کنترل فن و یک حسگر PTC.md",
-    "کنترل رله فن با ECU و یک حسگر دمای مایع خنک کننده NTC.md",
-    "چيدمان رله ها.md",
-    "ویدئو های کاربردی.md",
-    "نقشه دور کند.md",
-    "منفی فن ها.md",
-    "مقاومت.md",
-    "مدار فن پژو.md",
-    "مدار شیشه بالابر پرايد.md",
-    "سیم کشی فن پراید.md",
-    "سوکت کلید شیشه بالابر.md",
-    "جعبه فیوز کالسکه ای.md",
-    "تصویر/tempFileForShare_20260202-160934.jpg",
-    "تصویر/tempFileForShare_20260202-153132.jpg",
-    "تصویر/tempFileForShare_20260202-152948.jpg",
-    "تصویر/tempFileForShare_20260202-152845.jpg",
-    "تصویر/tempFileForShare_20260202-152452.jpg",
-    "تصویر/tempFileForShare_20260202-152032.jpg",
-    "تصویر/tempFileForShare_20260202-151637.jpg",
-    "تصویر/tempFileForShare_20260202-145308.jpg",
-    "تصویر/tempFileForShare_20260202-144956.jpg",
-    "تصویر/Screenshot_20260202_164429_Aparat.jpg",
-    "تصویر/20260202_150003.heic",
-    "تصویر/20260202_150003 1.heic",
-    "فن مکنده.md",
-    "فن محوری.md",
-    "فن گریز از مرکز(فن سانتریفوژ).md",
-    "فن دمنده.md",
-    "Welcome.md",
-    "تصویر",
-    "Untitled.md",
-    "Untitled 1"
+    "20260212-0815-DecisionFramework.md",
+    "20260212-0820-EmoIntel.md",
+    "moc.md",
+    "20260212-0845-CrisisSystem.md",
+    "20260212-0835-Resilience.md",
+    "20260212-0840-SysThink.md",
+    "20260212-0830-CogBias.md",
+    "20260212_1415_trick.md",
+    "20260212_1406_ how to resive the root.md",
+    "20260212-0825-RapidDecide.md",
+    "20260212_1401_ example of probmel vs Sign.md",
+    "20260212-0810-InfoFilter.md",
+    "20260212-0805-StopTech.md",
+    "20260212-0800-NeuroPanic.md",
+    "moc"
   ]
 }
