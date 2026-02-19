@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260212-0820-EmoIntel.md",
+                "file": "moc.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20260212-0820-EmoIntel"
+              "title": "moc"
             }
           },
           {
@@ -199,20 +199,20 @@
   },
   "active": "8b6bbc6c7b3f6e30",
   "lastOpenFiles": [
+    "20260212-0810-InfoFilter.md",
+    "moc.md",
+    "20260212_1401_ example of probmel vs Sign.md",
+    "20260212_1406_ how to resive the root.md",
+    "20260212_1415_trick.md",
+    "20260212-0800-NeuroPanic.md",
+    "20260212-0805-StopTech.md",
     "20260212-0815-DecisionFramework.md",
     "20260212-0820-EmoIntel.md",
-    "moc.md",
-    "20260212-0845-CrisisSystem.md",
+    "20260212-0825-RapidDecide.md",
+    "20260212-0830-CogBias.md",
     "20260212-0835-Resilience.md",
     "20260212-0840-SysThink.md",
-    "20260212-0830-CogBias.md",
-    "20260212_1415_trick.md",
-    "20260212_1406_ how to resive the root.md",
-    "20260212-0825-RapidDecide.md",
-    "20260212_1401_ example of probmel vs Sign.md",
-    "20260212-0810-InfoFilter.md",
-    "20260212-0805-StopTech.md",
-    "20260212-0800-NeuroPanic.md",
+    "20260212-0845-CrisisSystem.md",
     "moc"
   ]
 }
